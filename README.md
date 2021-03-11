@@ -1,26 +1,5 @@
-# Master CT Assignment Template 
+# User Choice
+This is a chance for you to write a program that showcases your skills. See the assignment on Canvas for any specific information or quidelines. Otherwise, have fun!
 
-Use this master template to create CT Assignment Templates.
-
-## Problem Description
-Problem description goes here. 
-
-* Steps to take go here. 
-
-## Example
-```
-Value to increment? 5
-10
-```
-
-## Suggested Approach
-1) Suggestions go here
-
-## Hints
-* Use `input()` to prompt the user for a value. 
-
-Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-
-Run your code with: `python my_code.py`
-
-Run your tests with: `pytest`
+# Submission
+Check your assignment into GitHub (commit & push). Then submit a short note confirming your submission on Canvas. This can be as simple as "done" or "on GitHub"
